@@ -1,0 +1,5 @@
+node_modules/
+*.ini
+build
+API
+.vscode
